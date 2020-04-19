@@ -1,0 +1,37 @@
+html,
+body {
+  margin: 0;
+  padding: 0;
+  font-family: "Raleway", sans-serif;
+}
+body {
+  padding: 2rem;
+}
+fieldset {
+  border: none;
+  padding: 2rem 2rem;
+  background: #ddd;
+  margin: 1rem auto;
+  border-radius: 5px;
+  justify-content: stretch;
+
+  display: block;
+
+  box-sizing: border-box;
+}
+
+label {
+  padding: 0;
+  font-weight: bold;
+  font-size: 14px;
+  color: #000;
+  display: block;
+}
+
+input {
+  border: none;
+  padding: 10px;
+  margin: 10px auto;
+  text-align: left;
+  width: auto;
+}
